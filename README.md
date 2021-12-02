@@ -34,8 +34,12 @@
 [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)  
 [![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)
 ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+[![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)  
+[![kafka-judger](http://img.shields.io/badge/-kafka%20judger-000000?style=square&logo=github)](https://github.com/vcho1958/kafka-judger)
+![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](http://img.shields.io/badge/-Kafka-2496ED?style=flat)
 [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
-
 
 <div align=right>
   
