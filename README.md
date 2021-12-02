@@ -39,6 +39,8 @@
 ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](http://img.shields.io/badge/-Kafka-2496ED?style=flat)
+![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodejs&logoColor=white)
+![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
 
 <div align=right>
