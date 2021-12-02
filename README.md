@@ -23,6 +23,7 @@
 ![Swing](http://img.shields.io/badge/-Swing-6DB33F?style=flat)  
 [![Face Recognition app](http://img.shields.io/badge/-Face%20Recognition%20app-000000?style=square&logo=github)](https://github.com/vcho1958/face_recognition_app)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![pyqt](http://img.shields.io/badge/-pyqt-41CD52?style=flat&logo=qt&logoColor=white)
 ![OpenCV](http://img.shields.io/badge/-OpenCV-3776AB?style=flat&logo=openCV&logoColor=white#5C3EE8)
 [![face recognition](http://img.shields.io/badge/-face%20recognition%20package-000000?style=flat&logo=github)](https://github.com/ageitgey/face_recognition)
 
