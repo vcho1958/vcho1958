@@ -43,6 +43,7 @@
 ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
+[![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
 
 <div align=right>
   
