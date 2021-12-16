@@ -14,14 +14,14 @@
 
 ## ⚡ Repository - click left repository badge for view
 ### Projects
-[![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server)  
+[![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server):`refactoring`  
   ![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
   ![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
   ![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)   
   -------------------------------
-[![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client)  
+[![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client):`refactoring`    
   ![Java](http://img.shields.io/badge/-JAVA-007396?style=flat&logo=java)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)
   ![Swing](http://img.shields.io/badge/-Swing-6DB33F?style=flat)  
