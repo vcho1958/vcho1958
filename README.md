@@ -50,7 +50,9 @@
   -----------------
 [![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)  
   ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
+  [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)  
+  `problem page and submit page with connecting API`
+  
   --------------------------  
 [![kafka-judger](http://img.shields.io/badge/-kafka%20judger%20monitoring-000000?style=square&logo=github)](https://github.com/vcho1958/kafka-judger)  
   ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
