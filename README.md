@@ -14,7 +14,7 @@
 
 ## ⚡ Repository - click left repository badge for view
 ### Projects
-[![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server):`refactoring`  
+[![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server):`refactoring` `JWT` 
   ![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
   ![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
   ![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
@@ -35,7 +35,7 @@
 
 
 ### CBNU OSS
-[![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/judge-api-server)  
+[![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/judge-api-server):`score board` `file upload`  
   ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.JS&logoColor=white)
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
