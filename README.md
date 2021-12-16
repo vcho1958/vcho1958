@@ -21,6 +21,7 @@
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)   
   `refactoring(add service to mvc pattern) jwt(server) use authentication filter/object to verify user`
+  `fix foreign key errors`
   
   -------------------------------
 [![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client)   
@@ -44,7 +45,7 @@
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)    
-  `scoreboard upload`
+  `scoreboard with upload feature`
   
   -----------------
 [![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)  
