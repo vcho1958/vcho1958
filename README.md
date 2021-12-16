@@ -20,7 +20,7 @@
   ![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)   
-  `refactoring(add service to mvc pattern) jwt(server)`
+  `refactoring(add service to mvc pattern) jwt(server) use authentication filter/object to verify user`
   
   -------------------------------
 [![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client)   
