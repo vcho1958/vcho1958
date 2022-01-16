@@ -1,17 +1,3 @@
-### 🔭 Now On
-[![cbnu-alrami](http://img.shields.io/badge/-CBNU%20Alrami-000000?logo=github)](https://github.com/vcho1958/cbnu-alrami)  
-`NestJS refactoring`
-### 🌱 Learning for CMI-OSS
-[![NestJS](http://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)](https://docs.nestjs.kr/first-steps)
-[![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
-[![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
-
-### 🌱 Learning for me
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
-![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
-
 ## ⚡ Repository - click left repository badge for view
 ### Projects  
 [![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server)   
@@ -63,7 +49,19 @@
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
 
+### 🔭 Now On
+[![cbnu-alrami](http://img.shields.io/badge/-CBNU%20Alrami-000000?logo=github)](https://github.com/vcho1958/cbnu-alrami)  
+`NestJS refactoring`
+### 🌱 Learning for CMI-OSS
+[![NestJS](http://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)](https://docs.nestjs.kr/first-steps)
+[![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
+[![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
 
+### 🌱 Learning for me
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
+![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
 
 <!--
 **vcho1958/vcho1958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
