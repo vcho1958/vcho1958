@@ -58,8 +58,6 @@
 `NestJS refactoring`
 ### 🌱 Learning for CMI-OSS
 [![NestJS](http://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)](https://docs.nestjs.kr/first-steps)
-[![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
-[![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
 
 ### 🌱 Learning for me
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
