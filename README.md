@@ -36,8 +36,7 @@
 [![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)  
   ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)  
-  `problem page and submit page with connecting API`
-  
+
   --------------------------  
 [![kafka-judger](http://img.shields.io/badge/-kafka%20judger%20monitoring-000000?style=square&logo=github)](https://github.com/vcho1958/kafka-judger)  
   ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -50,7 +49,7 @@
 
 ### 🔭 Now On
 [![cbnu-alrami](http://img.shields.io/badge/-CBNU%20Alrami-000000?logo=github)](https://github.com/vcho1958/cbnu-alrami)  
-`NestJS refactoring`
+`NestJS`
 ### 🌱 Learning for CMI-OSS
 [![NestJS](http://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)](https://docs.nestjs.kr/first-steps)
 
