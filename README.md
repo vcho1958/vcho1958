@@ -10,15 +10,12 @@
   ![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)   
-  `refactoring(add service to mvc pattern) jwt(server) use authentication filter/object to verify user`
-  `fix foreign key errors`
   
   -------------------------------
 [![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client)   
   ![Java](http://img.shields.io/badge/-JAVA-007396?style=flat&logo=java)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)
   ![Swing](http://img.shields.io/badge/-Swing-6DB33F?style=flat)  
-  `refactoring(Component, request) jwt(client)`
   
   ------------------------------
 [![Face Recognition app](http://img.shields.io/badge/-Face%20Recognition%20app-000000?style=square&logo=github)](https://github.com/vcho1958/face_recognition_app)  
@@ -26,16 +23,14 @@
   ![pyqt](http://img.shields.io/badge/-pyqt-41CD52?style=flat&logo=qt&logoColor=white)
   ![OpenCV](http://img.shields.io/badge/-OpenCV-3776AB?style=flat&logo=openCV&logoColor=white#5C3EE8)
   [![face recognition](http://img.shields.io/badge/-face%20recognition%20package-000000?style=flat&logo=github)](https://github.com/ageitgey/face_recognition)  
- `face recognition repository's commit messages were written when I was unskilled `
 
 
 ### CBNU OSS
-[![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/judge-api-server)  
+[![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/cbnu_judger_backend_dev)  
   ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.JS&logoColor=white)
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)    
-  `scoreboard with upload feature`
   
   -----------------
 [![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)  
