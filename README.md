@@ -11,12 +11,6 @@
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)   
   
-  -------------------------------
-[![1M1S-client](http://img.shields.io/badge/-1M1S%20Client-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-client)   
-  ![Java](http://img.shields.io/badge/-JAVA-007396?style=flat&logo=java)
-  ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)
-  ![Swing](http://img.shields.io/badge/-Swing-6DB33F?style=flat)  
-  
   ------------------------------
 [![Face Recognition app](http://img.shields.io/badge/-Face%20Recognition%20app-000000?style=square&logo=github)](https://github.com/vcho1958/face_recognition_app)  
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,13 +25,11 @@
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)    
-  
-  -----------------
-[![judge-web](http://img.shields.io/badge/-judge%20web-000000?style=square&logo=github)](https://github.com/cbnusw/judge-web)  
-  ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)  
+
 
   --------------------------  
+  
+### Toy Project
 [![kafka-judger](http://img.shields.io/badge/-kafka%20judger%20monitoring-000000?style=square&logo=github)](https://github.com/vcho1958/kafka-judger)  
   ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
