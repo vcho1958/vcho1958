@@ -1,4 +1,4 @@
-# 제 자신이 지금 이 감정 잊지말고 바뀔 수 있기를
+# 지금 이 감정 잊지말고 바뀔 수 있기를
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcho1958&show_icons=true&theme=radical)
 
