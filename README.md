@@ -46,13 +46,6 @@
   ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
   ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)  
 
-### 🔭 Now On
-
-#### 🌱 Learning for me
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
-![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
 
 
 <!--
