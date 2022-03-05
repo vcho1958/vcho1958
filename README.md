@@ -32,12 +32,6 @@
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
   [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)
-
-[![Face Recognition app](http://img.shields.io/badge/-Face%20Recognition%20app-000000?style=square&logo=github)](https://github.com/vcho1958/face_recognition_app)  
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![pyqt](http://img.shields.io/badge/-pyqt-41CD52?style=flat&logo=qt&logoColor=white)
-  ![OpenCV](http://img.shields.io/badge/-OpenCV-3776AB?style=flat&logo=openCV&logoColor=white#5C3EE8)
-  [![face recognition](http://img.shields.io/badge/-face%20recognition%20package-000000?style=flat&logo=github)](https://github.com/ageitgey/face_recognition)  
   
 [![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server)   
   ![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
