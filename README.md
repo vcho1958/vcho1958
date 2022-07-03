@@ -10,7 +10,6 @@
 [![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/cbnu_judger_backend_dev)  [![judger](http://img.shields.io/badge/-judger-000000?style=square&logo=github)](https://github.com/cbnusw/sw-judger)     
   ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.JS&logoColor=white)
   ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  [![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io&logoColor=white)](https://socket.io/)
   [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)    
 #### CMI OSS
 [![cbnu-alrami](http://img.shields.io/badge/-CBNU%20Alrami-000000?logo=github)](https://github.com/vcho1958/cbnu-alrami)   
