@@ -1,7 +1,7 @@
 
 [![Notion](http://img.shields.io/badge/-Notion-090909?style=social&logo=Notion&logoColor=black)](https://long-tarantula-ad3.notion.site/9de64694a99244dd8ed90cf5ff06ed90)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcho1958&show_icons=true&theme=radical)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/vcho1958)](https://leetcode.com/vcho1958)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vcho1958)](https://solved.ac/vcho1958)
 ## ⚡ Repository - click left repository badge for view
