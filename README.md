@@ -1,26 +1,7 @@
 
-[![Notion](http://img.shields.io/badge/-Notion-090909?style=social&logo=Notion&logoColor=black)](https://long-tarantula-ad3.notion.site/9de64694a99244dd8ed90cf5ff06ed90)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcho1958&show_icons=true&theme=radical)  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vcho1958)](https://solved.ac/vcho1958)
-## ⚡ Repository - click left repository badge for view
-### Projects  
- #### CBNU OSS
-[![judge-api-server](http://img.shields.io/badge/-judge%20api%20server-000000?style=square&logo=github)](https://github.com/cbnusw/cbnu_judger_backend_dev)  [![judger](http://img.shields.io/badge/-judger-000000?style=square&logo=github)](https://github.com/cbnusw/sw-judger)     
-  ![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.JS&logoColor=white)
-  ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  [![Mongoose](http://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=MongoDB&logoColor=white)](https://mongoosejs.com/docs/guide.html)    
-#### CMI OSS
-[![cbnu-alrami](http://img.shields.io/badge/-CBNU%20Alrami-000000?logo=github)](https://github.com/vcho1958/cbnu-alrami)   
-[![NestJS](http://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)](https://docs.nestjs.kr/first-steps)
-#### 1M1S
-[![1M1S-server](http://img.shields.io/badge/-1M1S%20Server-000000?style=square&logo=github)](https://github.com/1M1S/1M1S-server)   
-  ![Spring Boot](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-  ![Spring Security](http://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
-  ![JPA](http://img.shields.io/badge/-JPA-6DB33F?style=flat)
-  ![mariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariaDB)
-  ![JJWT](http://img.shields.io/badge/-JJWT-6DB33F?style=flat)  
-
 ------------------------------
 
 
