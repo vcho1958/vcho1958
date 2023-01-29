@@ -1,4 +1,4 @@
- 
+[ <img src="https://img.shields.io/badge/linked_in-blue?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/jovast/)
 
 
 # Project
