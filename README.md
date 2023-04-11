@@ -1,4 +1,4 @@
-[ <img src="https://img.shields.io/badge/linked_in-blue?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/jovast/)
+
 [ <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=Notion&logoColor=black">](https://hulking-stetson-3ee.notion.site/46f1682c671b4e26bceec503880dda89)
 [ <img src="https://img.shields.io/badge/tistory-white?style=for-the-badge&logo=tistory&logoColor=black">](https://vcho1958.tistory.com/)
 # Project
